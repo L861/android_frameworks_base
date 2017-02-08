@@ -137,8 +137,8 @@ LOCAL_SRC_FILES:= \
 	android_hardware_Camera.cpp \
 	android_hardware_camera2_CameraMetadata.cpp \
 	android_hardware_camera2_legacy_LegacyCameraDevice.cpp \
-	android_hardware_camera2_legacy_PerfMeasurement.cpp \
-	aandroid_hardware_SensorManager.cpp \
+	android_hardware_camera2_DngCreator.cpp \
+	android_hardware_SensorManager.cpp \
 	android_hardware_SerialPort.cpp \
 	android_hardware_SoundTrigger.cpp \
 	android_hardware_UsbDevice.cpp \
